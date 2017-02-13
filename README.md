@@ -30,6 +30,10 @@ Result is 66
 67:45346b2f00a64ca1dc49d7619333666f2a670cdb53d05f31e0b38d261ffabaa9
 ```
 
+密码是 66
+
+用户密码数据 db.json 来源于 [WebScrypt Example 中的 db.json](https://github.com/EtherDream/WebScrypt/blob/master/example/login/db.json)
+
 # 安装
 
 ```shell
