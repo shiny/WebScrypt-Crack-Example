@@ -32,4 +32,18 @@ Result is 66
 
 # 安装
 
-git clone 
+```shell
+git clone https://github.com/shiny/WebScrypt-Crack-Example.git
+cd WebScrypt-Crack-Example
+npm i
+node main.js
+```
+
+
+
+# 依赖项
+
+[node-scrypt](https://github.com/barrysteyn/node-scrypt) - Scrypt for Node
+
+[async.js](https://github.com/caolan/async) - Async utilities for node and the browser
+
